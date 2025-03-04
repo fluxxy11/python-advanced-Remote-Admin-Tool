@@ -1,0 +1,11 @@
+pyinstaller
+requests
+pillow
+numpy
+opencv-python
+pycryptodome
+pywin32
+pyperclip
+pynput
+pyaudio
+scapy
